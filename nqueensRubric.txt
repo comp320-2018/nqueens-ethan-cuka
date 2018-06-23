@@ -1,0 +1,33 @@
+Name: Ethan
+
+        NQueens Grading Rubric
+
+
+Points:
+
+  Correctness (meets specification)                                 25 / 40
+
+  ==> It was not submitted correctly, so I didn't even know about
+      it until after final grades were due.
+
+  ==> It would not load into hugs; even after I turned <<<< HEAD and
+      such into comments, it complained that compareLoc was multiply
+      defined.
+
+      On further analysis, nqueens.hs appears to be something like
+      a diff file (for a merge conflict?).
+
+      When I divided it up into 2 files, the file that represented the second
+      half worked.
+
+  ==> The output type does not meet the problem specification.
+
+  Internal documentation                                             4 /  5
+
+  ==> Lots of comments, although they're hard to read (thank goodness
+      for syntax coloring)
+
+  Test cases                                                         0 /  5
+        (Unit tests, including boundary cases)
+
+  Total:                                                            29 / 50
